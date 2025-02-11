@@ -1,2 +1,2 @@
 print('Power of Python')
-print('I love github')
+print('I love git')
